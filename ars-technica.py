@@ -35,4 +35,4 @@ for post in driver.find_elements(By.XPATH, '//*[@id="main"]/section[1]/ul/li'):
 df = pd.DataFrame(postings)
 print(df)
 
-#test
+#test2
